@@ -1,2 +1,2 @@
 # .github
-README for the `sailfishos-chum` "organisation"
+README for the `sailfishos-chum` "organisation" in the `profile` directory
