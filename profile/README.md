@@ -1,5 +1,5 @@
 ### Documentation and issue tracker for the SailfishOS:Chum community repository
-https://github.com/sailfishos-chum/main/blob/main/README.md
+https://github.com/sailfishos-chum/main
 
 ### Software maintained at the SailfishOS:Chum community repository
 https://github.com/orgs/sailfishos-chum/repositories?type=all
