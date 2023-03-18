@@ -14,9 +14,8 @@ https://github.com/orgs/sailfishos-chum/repositories?type=all
 * **SailfishOS:Chum GUI application**<br />
   https://github.com/sailfishos-chum/sailfishos-chum-gui#readme
 * **SailfishOS:Chum repository configuration RPM(s)**<br />
-  https://github.com/sailfishos-chum/sailfishos-chum-repo-config
+  https://github.com/sailfishos-chum/sailfishos-chum-repo-config#readme
 * **SailfishOS:Chum GUI Installer**<br />
   https://github.com/sailfishos-chum/sailfishos-chum-gui-installer#readme
 * **SailfishOS:Chum webpage for downloading the GUI app or the repo config RPM**<br />
   https://github.com/sailfishos-chum/sailfishos-chum-web#readme
-  
