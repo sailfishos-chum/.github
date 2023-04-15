@@ -1,7 +1,7 @@
 ### Documentation for the SailfishOS:Chum community repository
 https://github.com/sailfishos-chum/main#readme
 
-### Issue tracker for the SailfishOS:Chum community repository
+### Issue tracker of the SailfishOS:Chum community repository
 https://github.com/sailfishos-chum/main/issues
 
 ### Software distributed by the SailfishOS:Chum community repository
