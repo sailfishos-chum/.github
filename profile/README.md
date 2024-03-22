@@ -19,3 +19,7 @@ https://github.com/orgs/sailfishos-chum/repositories?type=all
   https://github.com/sailfishos-chum/sailfishos-chum-gui-installer#readme
 * **SailfishOS:Chum webpage for downloading the GUI app or the repo config RPM**<br />
   https://github.com/sailfishos-chum/sailfishos-chum-web#readme
+* **Chum Web, a web index for the SailfishOS:Chum community software repository**<br />
+  https://sailfishos-chum.github.io/<br />
+  Its source, the **Chum Web Generator**<br />
+  https://github.com/sailfishos-chum/sailfishos-chum.github.io#readme
