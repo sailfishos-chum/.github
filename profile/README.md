@@ -5,7 +5,7 @@ https://github.com/sailfishos-chum/main#readme
 https://github.com/sailfishos-chum/main/issues
 
 ### Software distributed by the SailfishOS:Chum community repository
-https://build.merproject.org/project/show/sailfishos:chum
+https://build.sailfishos.org/project/show/sailfishos:chum
 
 ### Software maintained at the SailfishOS:Chum community repository
 https://github.com/orgs/sailfishos-chum/repositories?type=all
